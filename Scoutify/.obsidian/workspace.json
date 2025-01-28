@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "a45be246a359b3e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "3bd113df0f7d5895",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dbfc18af7b37aab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Welcome"
+            }
+          },
+          {
+            "id": "e4e6d948583f963f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scoutify Technical Notes.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Scoutify Technical Notes"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "5c72dbe487cfa579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf1e55fa2b988ca6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "dffad84c0d4d4dc5",
+    "type": "split",
+    "children": [
+      {
+        "id": "49dc471ef3450cd9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "378b594f7690b806",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4ff7512cdd14f58e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "47e0e1e849080509",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "0f6bd2a07d6cd3d8",
+    "type": "split",
+    "children": [
+      {
+        "id": "ef278faa3b5c1441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e48dcfb1e70ca8e8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Scoutify Technical Notes.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Scoutify Technical Notes"
+            }
+          },
+          {
+            "id": "f7c8608b8485d5f6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Scoutify Technical Notes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Scoutify Technical Notes"
+            }
+          },
+          {
+            "id": "3823914dd0862dd4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "f5c00b084cffe2c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Scoutify Technical Notes.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Scoutify Technical Notes"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "e4e6d948583f963f",
+  "lastOpenFiles": [
+    "Scoutify Technical Notes.md",
+    "Welcome.md"
+  ]
+}
